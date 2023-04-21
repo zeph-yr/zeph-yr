@@ -58,6 +58,7 @@ https://onetreeplanted.org/
 
 ### 🔽 Get BS Stream Banners Here! ⏺️
 Warning: Dad jokes ahead. Forgive us LOL - https://github.com/zeph-yr/EarthDayOverlays
+Tree planting charity counter Mod - https://github.com/zeph-yr/TreesPlus
 
 ### Technical Resources to Learn More:
 https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/
